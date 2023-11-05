@@ -1,1 +1,0 @@
-CREATE SCHEMA `module_6_assignment` DEFAULT CHARACTER SET utf8 ;
